@@ -1,4 +1,4 @@
 # QuantumSDPs
-This is a repository implementing novel SDP formulations for identifying whether certain quantum states are entangled or not based on their density operators. 
+This repository contains implementations of novel semidefinite programming (SDP) formulations designed to determine whether quantum states are entangled based on their density operators.
 
-These implementations are based on the formulations provided by Dr. Javier Pena, Dr. Vikesh Siddhu, and Dr. Sridhar Tayur.
+The implementations use the formulations provided by Dr. Javier Peña, Dr. Vikesh Siddhu, and Dr. Sridhar Tayur.
